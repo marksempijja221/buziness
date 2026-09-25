@@ -14,3 +14,7 @@ a:hover{
     font-weight: bold;
     font-family: cursive;
 }
+img{
+    max-width: 500px;
+    max-height: 600px;
+}
