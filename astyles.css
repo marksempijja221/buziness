@@ -1,15 +1,17 @@
 body{
-    background-color: rgb(22, 22, 100);
+    background-color: rgb(22, 158, 221);
     
 }
 a{
     text-decoration: none;
-color: rgb(2, 99, 2);
+    border-radius: 18px;
+color: white;
 }
 a:hover{
-    padding: 20px;
-    color: rgb(124, 10, 10);
-    background-color: rgb(145, 207, 19);
+    padding: 10px;
+    color: rgb(32, 9, 243);
+    background-color: rgb(9, 188, 219);
+
 }h3,h2,h1{
     font-weight: bold;
     font-family: cursive;
@@ -18,3 +20,8 @@ img{
     max-width: 500px;
     max-height: 600px;
 }
+p{
+            font-weight: bold;
+            font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+            color: rgb(199, 199, 25);
+        }
