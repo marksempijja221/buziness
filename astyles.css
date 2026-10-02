@@ -1,5 +1,6 @@
 body{
     background-color: rgb(22, 158, 221);
+    text-align: center;
     
     
 }
@@ -18,8 +19,8 @@ a:hover{
     font-family: cursive;
 }
 img{
-    max-width: 500px;
-    max-height: 600px;
+    max-width: 40%;
+    max-height: 30%px;
 }
 p{
             font-weight: bold;
